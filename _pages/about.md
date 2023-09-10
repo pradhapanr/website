@@ -1,26 +1,32 @@
 ---
 layout: about
-title: about
+title:
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <em>CS undergrad at the University of Guelph, previously at AWS and Snowflake</em>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! My name is Pradhapan, but I usually go by **Prad**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently studying computer science at the University of Guelph. As a student in the co-op program, I had the opportunity
+to intern at the following companies:
+  - [ApplyBoard](https://www.applyboard.com/): *September 2021 - December 2021*
+  - [Amazon Web Services](https://aws.amazon.com/): *May 2022 - August 2022*
+  - [Amazon Web Services](https://aws.amazon.com/): *January 2023 - April 2023*
+  - [Snowflake](https://www.snowflake.com/en/): *May 2023 - August 2023*
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Over this period, I worked on problems related to cloud engineering, infrastructure, and distributed systems. I also
+have experience with full stack development using React. Check out my [resume](/assets/pdf/resume.pdf) for more info.
+
+Occasionally, I find some time for my [personal projects](/projects). I'm currently building a distributed key/value store with
+Raft ([MIT 6.824](http://nil.csail.mit.edu/6.824/2022/)).
+
+Outside of engineering, you might find me playing competitive League of Legends (top 0.01% of players), or 
+bluff shoving at a poker table.

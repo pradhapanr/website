@@ -1,26 +1,25 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: AWS SAM
+description: Making cloud scalable solutions easy for GraphQL devs.
+img: assets/img/sam.png
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
+
+During my second internship at AWS from January to April in 2023, I built GraphQL tooling (AppSync) for AWS Serverless
+Application Model (SAM). SAM is an open-source framework for building serverless applications, which provides an extension of
+the CloudFormation syntax for provisioning services with best built-in pracices and sane defaults. With SAM, CloudFormation
+users can see a 90% reduction in template sizes, and overall simplification of IaC solutions.
+
+One of our main focuses was reducing the complexity of creating AppSync resources in CloudFormation. There were multiple types
+of resources in standard CFN that needed to link to each other with intrinsics, which lead to some really weird looking templates. This was a vocalized issue from AppSync users, so we decided to stick with one primary resource,
+`AWS::Serverless::GraphQLApi`.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
