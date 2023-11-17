@@ -28,5 +28,5 @@ have experience with full stack development using React. Check out my [resume](/
 Occasionally, I find some time for my [personal projects](/projects). I'm currently building a distributed key/value store with
 Raft ([MIT 6.824](http://nil.csail.mit.edu/6.824/2022/)).
 
-Outside of engineering, you might find me playing competitive League of Legends (top 0.01% of players), or 
+Outside of engineering, you might find me playing competitive League of Legends (top 0.05% of players), or 
 bluff shoving at a poker table.
