@@ -23,7 +23,7 @@ to intern at the following companies:
   - [Snowflake](https://www.snowflake.com/en/): *May 2023 - August 2023*
 
 Over this period, I worked on problems related to cloud engineering, infrastructure, and distributed systems. I also
-have experience with full stack development using React. Check out my [resume](/assets/pdf/resume.pdf) for more info.
+have experience with full stack development using JavaScript. Here's my [resume](/assets/pdf/resume.pdf) for more info.
 
 Occasionally, I find some time for my [personal projects](/projects). I'm currently building a distributed key/value store with
 Raft ([MIT 6.824](http://nil.csail.mit.edu/6.824/2022/)).
