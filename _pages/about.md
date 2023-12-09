@@ -29,4 +29,4 @@ Occasionally, I find some time for my [personal projects](/projects). I'm curren
 Raft ([MIT 6.824](http://nil.csail.mit.edu/6.824/2022/)).
 
 Outside of engineering, I spend my time playing video games, learning the piano, and bluff shoving at poker tables. I also
-play competitive League of Legends, where I'm ranked in the top 0.05% players in North America.
+play competitive League of Legends, where I'm ranked in the top 0.05% of players in North America.
